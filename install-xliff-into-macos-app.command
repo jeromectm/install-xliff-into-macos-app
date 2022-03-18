@@ -30,6 +30,8 @@
 # (replace {path/to/app} by the actual path of the modified app file;
 # you can drag and drop it from the Finder to the Terminal window to
 # "paste" its path)
+#
+# © 2022 Jérôme Seydoux - https://github.com/jeromectm
 
 # change directory to the directory containing this shell file
 cd "${0%/*}"
